@@ -16,7 +16,7 @@ This assignment has four components: data modeling, data engineering, and data a
 
 * Listed:
   - each employees employee number, last name, first name, sex, and salary
-  - first name, last name, and hire date for employees who were hired in 1986.
+  - the first name, the last name, and the hire date for employees who were hired in 1986.
   - the manager of each department with the department number, department name, the manager's employee number, last name, first name.
   - the department of each employee with the employee number, last name, first name, and department name.
   - the first name, the last name, and the sex for employees whose first name is "Hercules" and last names begin with "B."
