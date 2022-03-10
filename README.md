@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL Homework
 
 This assignment has four components: data modeling, data engineering, and data analysis, and a bonus portion. The information below is a list of tasks that I completed for each respective component. 
 
