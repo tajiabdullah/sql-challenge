@@ -24,7 +24,7 @@ This assignment has four components: data modeling, data engineering, and data a
   - all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
   - the frequency count of employee last names in descending order, (i.e., how many employees share each last name)
 
-## Bonus
+## *Bonus*
 
  * Imported the SQL database into Pandas. 
  * Created a histogram to visualize the most common salary ranges for employees.
